@@ -1,0 +1,10 @@
+hash: 8aadafe9c17dd2162cdf7101a0eca695ada4c147cf366bb1db43ca8bbdeddaf5
+updated: 2019-03-26T15:01:26.362714-05:00
+imports:
+- name: github.com/codegangsta/negroni
+  version: c6a59be0ce122566695fbd5e48a77f8f10c8a63a
+- name: github.com/gorilla/mux
+  version: a7962380ca08b5a188038c69871b8d3fbdf31e89
+- name: github.com/unrolled/render
+  version: 1ac792296fd4f4de9559a5f9a85c277c54ffb1cf
+testImports: []
